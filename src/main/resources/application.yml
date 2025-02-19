@@ -1,0 +1,8 @@
+server:
+  port: 8082
+spring:
+  ai:
+    # Key分享自：https://pgthinker.me/2023/10/03/196/
+    openai:
+      api-key: 1101a74e210f42c9a1d7d6ff3d3c9f30.fpg8zFtGJ9jWeH4Y
+      base-url: https://open.bigmodel.cn/api/llm-application/open
