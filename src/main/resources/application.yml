@@ -2,7 +2,6 @@ server:
   port: 8321
 spring:
   ai:
-    # Key分享自：https://pgthinker.me/2023/10/03/196/
     openai:
       api-key: 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
       base-url: https://api.openai.com
